@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class MahasiswaDemo {
+public class MahasiswaDemo11 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         Mahasiswa11[] arrayOfMahasiswa = new Mahasiswa11[3];
